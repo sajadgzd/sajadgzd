@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Sajad! 👋 
 
-<!--
-**sajadgzd/sajadgzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: Software Developer Co-op at IBM. 
+- :notebook_with_decorative_cover: Senior year majoring in Computer Science.
+- :mortar_board: Graduate of Full Stack Development Bootcamp at Columbia University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch with me! :mailbox:
+<p>
+  <a href="https://www.linkedin.com/in/sajadgzd" target="blank"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
+  <a href = "mailto: sajadgzd@gmail.com target="blank"><img align="left" src="https://img.icons8.com/wired/64/000000/email.png"  height="30" width="30" /></a>
+  <a href="https://www.sajad.dev" target="blank"><img align="left" src="https://img.icons8.com/dotty/80/000000/resume-website.png" height="35" width="35" /></a>
+</p>
+ 
+ <br />
