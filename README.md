@@ -1,6 +1,6 @@
 #### Hi there, I'm Sajad! 👋 
 
-- :computer: Software Developer Co-op at IBM. 
+- :computer: Software Developer. 
 - :notebook_with_decorative_cover: Senior year majoring in Computer Science.
 - :mortar_board: Graduate of Full Stack Development Bootcamp at Columbia University.
 
