@@ -1,7 +1,7 @@
 #### Hi there, I'm Sajad! 👋 
 
 - :computer: Software Developer. 
-- :notebook_with_decorative_cover: Senior year majoring in Computer Science.
+- :notebook_with_decorative_cover: Recent grade in Computer Science from CCNY.
 - :mortar_board: Graduate of Full Stack Development Bootcamp at Columbia University.
 
 
