@@ -1,6 +1,6 @@
 #### Hi there, I'm Sajad! 👋 
 
-- :computer: Software Developer. 
+- :computer: Software Engineer. 
 - :notebook_with_decorative_cover: Recent grade in Computer Science from CCNY.
 - :mortar_board: Graduate of Full Stack Development Bootcamp at Columbia University.
 
