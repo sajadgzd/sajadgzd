@@ -1,7 +1,7 @@
 #### Hi there, I'm Sajad! 👋 
 
-- :computer: Software Engineer. 
-- :notebook_with_decorative_cover: Recent grade in Computer Science from CCNY.
+- :computer: Software Engineer GTP at UBS. 
+- :notebook_with_decorative_cover: Recent grad in Computer Science from CCNY.
 - :mortar_board: Graduate of Full Stack Development Bootcamp at Columbia University.
 
 
